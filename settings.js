@@ -4,44 +4,44 @@
 //Instagram: techgod143
 //Telegram: t.me/techgod143
 //GitHub: @techgod143
-//WhatsApp: +917466008456
+//WhatsApp: +2349065526692
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
+global.ownernomer = "+2349065526692"
+global.ownername = "Ernest"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.location = "Nigeria,Lagos"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '+2349065526692'  //creator number
+global.ownername = 'Ernest' //owner name
+global.botname = 'Ernest Bug v3' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'Ernest\n\nContact: +2349065526692'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Youtube Tech God."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://whatsapp.com/channel/0029VakMfZR4yltPyixMaK0D'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['.']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false  //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -58,15 +58,15 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: 'Done !',
-    prem: 'This feature can be used by Tech god or premium user only',
-    admin: 'This feature can be used by Tech god or admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by Tech god or owner only',
-    group: 'This feature is only for groups',
-    private: 'This feature is only for private chats',
-    wait: 'In process... ',    
-    error: 'Error!',
+    done: 'Im true🤓',
+    prem: 'Dont be dumb...You need to be a premium user for this feature😐',
+    admin: 'Umm...you need to be an admin for this feature',
+    botAdmin: 'Sorry...the bot is not a group admin',
+    owner: 'You need to be Ernest for this feature....and i know how good looking he is😑',
+    group: 'Umm..You need to be in a group fo dis bro',
+    private: 'You need to be in someones DM for this......and dont even think of coming to mine😡',
+    wait: 'Calm dan im doing it😴... ',    
+    error: 'Bro something is wrong somewhere 🤓!',
 }
 
 global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
